@@ -1,0 +1,29 @@
+{
+    "name": "vijayan/remote-users",
+    "description": "This plugin is fetch remote users and list them in a cutom url page.",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "brain/monkey": "^2.6",
+        "inpsyde/php-coding-standards": "1.0.0-RC.1"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "gvgvgvijayan",
+            "email": "gvgvgvijayan@gmail.com",
+            "homepage": "https://vijayan.in",
+            "role": "Fullstack Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Remote_Users\\": ["inc"]
+        }
+    }
+}

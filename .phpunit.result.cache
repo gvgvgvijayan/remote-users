@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":290:{a:2:{s:7:"defects";a:3:{s:27:"RenderTest::testRenderHooks";i:3;s:27:"RoutesTest::testRenderHooks";i:5;s:27:"RoutesTest::testAddQueryKey";i:3;}s:5:"times";a:3:{s:27:"RenderTest::testRenderHooks";d:0.235;s:27:"RoutesTest::testRenderHooks";d:0.003;s:27:"RoutesTest::testAddQueryKey";d:0.011;}}}
